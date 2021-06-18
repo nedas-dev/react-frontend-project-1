@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/react-frontend-project-1/static/js/main.c8f5fac9.chunk.js",
+    "main.js.map": "/react-frontend-project-1/static/js/main.c8f5fac9.chunk.js.map",
+    "runtime-main.js": "/react-frontend-project-1/static/js/runtime-main.6ba544c1.js",
+    "runtime-main.js.map": "/react-frontend-project-1/static/js/runtime-main.6ba544c1.js.map",
+    "static/js/2.9e064b60.chunk.js": "/react-frontend-project-1/static/js/2.9e064b60.chunk.js",
+    "static/js/2.9e064b60.chunk.js.map": "/react-frontend-project-1/static/js/2.9e064b60.chunk.js.map",
+    "index.html": "/react-frontend-project-1/index.html",
+    "static/js/2.9e064b60.chunk.js.LICENSE.txt": "/react-frontend-project-1/static/js/2.9e064b60.chunk.js.LICENSE.txt",
+    "static/media/business.e1c5c913.svg": "/react-frontend-project-1/static/media/business.e1c5c913.svg",
+    "static/media/meninblue.fb017882.jpg": "/react-frontend-project-1/static/media/meninblue.fb017882.jpg",
+    "static/media/quickprocess.f1a92978.svg": "/react-frontend-project-1/static/media/quickprocess.f1a92978.svg",
+    "static/media/security.5c01ce36.svg": "/react-frontend-project-1/static/media/security.5c01ce36.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ba544c1.js",
+    "static/js/2.9e064b60.chunk.js",
+    "static/js/main.c8f5fac9.chunk.js"
+  ]
+}

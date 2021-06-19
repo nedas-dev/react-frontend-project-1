@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.js": "/react-frontend-project-1/static/js/main.8823faff.chunk.js",
-    "main.js.map": "/react-frontend-project-1/static/js/main.8823faff.chunk.js.map",
+    "main.js": "/react-frontend-project-1/static/js/main.5bf21384.chunk.js",
+    "main.js.map": "/react-frontend-project-1/static/js/main.5bf21384.chunk.js.map",
     "runtime-main.js": "/react-frontend-project-1/static/js/runtime-main.6ba544c1.js",
     "runtime-main.js.map": "/react-frontend-project-1/static/js/runtime-main.6ba544c1.js.map",
-    "static/js/2.9e064b60.chunk.js": "/react-frontend-project-1/static/js/2.9e064b60.chunk.js",
-    "static/js/2.9e064b60.chunk.js.map": "/react-frontend-project-1/static/js/2.9e064b60.chunk.js.map",
+    "static/js/2.0878af85.chunk.js": "/react-frontend-project-1/static/js/2.0878af85.chunk.js",
+    "static/js/2.0878af85.chunk.js.map": "/react-frontend-project-1/static/js/2.0878af85.chunk.js.map",
     "index.html": "/react-frontend-project-1/index.html",
-    "static/js/2.9e064b60.chunk.js.LICENSE.txt": "/react-frontend-project-1/static/js/2.9e064b60.chunk.js.LICENSE.txt",
+    "static/js/2.0878af85.chunk.js.LICENSE.txt": "/react-frontend-project-1/static/js/2.0878af85.chunk.js.LICENSE.txt",
     "static/media/business.e1c5c913.svg": "/react-frontend-project-1/static/media/business.e1c5c913.svg",
+    "static/media/fast.cb1a46de.svg": "/react-frontend-project-1/static/media/fast.cb1a46de.svg",
     "static/media/meninblue.fb017882.jpg": "/react-frontend-project-1/static/media/meninblue.fb017882.jpg",
     "static/media/quickprocess.f1a92978.svg": "/react-frontend-project-1/static/media/quickprocess.f1a92978.svg",
-    "static/media/security.5c01ce36.svg": "/react-frontend-project-1/static/media/security.5c01ce36.svg"
+    "static/media/saveup.8baa5561.svg": "/react-frontend-project-1/static/media/saveup.8baa5561.svg",
+    "static/media/security.5c01ce36.svg": "/react-frontend-project-1/static/media/security.5c01ce36.svg",
+    "static/media/shopping.e2633bb4.svg": "/react-frontend-project-1/static/media/shopping.e2633bb4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6ba544c1.js",
-    "static/js/2.9e064b60.chunk.js",
-    "static/js/main.8823faff.chunk.js"
+    "static/js/2.0878af85.chunk.js",
+    "static/js/main.5bf21384.chunk.js"
   ]
 }

@@ -1,4 +1,4 @@
-<s>LIVE LINK TO THE PROJECT</s>: https://nedas-dev.github.io/react-frontend-project-1/
+<strong>LIVE LINK TO THE PROJECT</strong>: https://nedas-dev.github.io/react-frontend-project-1/
 
 # Getting Started with Create React App
 

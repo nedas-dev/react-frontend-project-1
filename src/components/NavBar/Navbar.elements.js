@@ -80,14 +80,16 @@ border-bottom: 3px solid ${global.darkTheme};
 }
 `
 
-export const NavButton = styled.button`
+export const NavButton = styled(Link)`
 color: white;
+text-decoration: none;
 background-color: ${global.buttonPrimary};
 border-radius: 5px;
 padding: 10px 25px;
 margin-left: 2rem;
 border: none;
 cursor: pointer;
+font-weight: 350;
 @media screen and (max-width: 960px){
     padding: 10px;
     outline: none;

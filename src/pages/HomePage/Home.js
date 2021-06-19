@@ -3,16 +3,16 @@ import React from 'react'
 import { ThemeProvider } from 'styled-components';
 
 // Importing components
-import { InfoSection, PricingSection, EmailSubscription, FooterContentMenu, MainFooter } from '../../components';
+import { InfoSection, PricingSection } from '../../components';
 
 // Importing data
 import { homeFirstObj, homeSecondObj, homeThirdObj, homeFourthObj } from './Data';
 
 // Importing images
-import homeFirstImage from '../../images/business.svg';
-import homeSecondImage from '../../images/meninblue.jpg';
-import homeThirdImage from '../../images/quickprocess.svg'
-import homeFourthImage from '../../images/security.svg'
+import homeFirstImage from '../../images/homepage/business.svg';
+import homeSecondImage from '../../images/homepage/meninblue.jpg';
+import homeThirdImage from '../../images/homepage/quickprocess.svg'
+import homeFourthImage from '../../images/homepage/security.svg'
 const Home = () => {
     return (
         <>
@@ -29,9 +29,6 @@ const Home = () => {
             <ThemeProvider theme={{ lightTheme: homeFourthObj.lightBg, flipSides: homeFourthObj.flipSides }}>
                 <InfoSection {...homeFourthObj} imageSrc={homeFourthImage} />
             </ThemeProvider>
-            <EmailSubscription />
-            <FooterContentMenu />
-            <MainFooter />
         </>
     )
 }

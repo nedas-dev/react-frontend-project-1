@@ -4,6 +4,7 @@ import { FaTimes, FaBars } from 'react-icons/fa';
 import { IconContext } from 'react-icons/lib';
 
 const Navbar = () => {
+    // click is a variable that holds if the nav menu is open or closed
     const [click, setClick] = useState(false);
     const handleClick = () => setClick(!click)
     return (
@@ -22,13 +23,13 @@ const Navbar = () => {
                             <NavLinks to='/'>
                                 Home
                             </NavLinks>
-                            <NavLinks to='/'>
+                            <NavLinks to='/service'>
                                 Services
                             </NavLinks>
-                            <NavLinks to='/'>
+                            <NavLinks to='/products'>
                                 Products
                             </NavLinks>
-                            <NavButton to='/'>
+                            <NavButton to='/sign-up'>
                                 SIGN UP
                             </NavButton>
                         </NavMenu>

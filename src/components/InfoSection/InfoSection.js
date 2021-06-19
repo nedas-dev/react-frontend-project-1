@@ -7,7 +7,8 @@ const InfoSection = ({ toplineText,
     subtitleText,
     infobuttonText,
     imageSrc,
-    lightBg
+    lightBg,
+    buttonLink,
 }) => {
     return (
         <InfoSecondary>
@@ -17,7 +18,7 @@ const InfoSection = ({ toplineText,
                         <TopLine>{toplineText}</TopLine>
                         <Header>{headerText}</Header>
                         <SubTitle>{subtitleText}</SubTitle>
-                        <InfoButton to='/'>{infobuttonText}</InfoButton>
+                        <InfoButton to={buttonLink}>{infobuttonText}</InfoButton>
                     </InfoRow>
                     <InfoRow>
                         <ImageRow src={imageSrc}></ImageRow>

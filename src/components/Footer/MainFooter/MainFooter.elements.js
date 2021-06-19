@@ -45,6 +45,7 @@ export const MainFooterCopyright = styled.div`
 font-size: 12px;
 justify-self: center;
 border: 1px solid white;
+padding: 7px;
 `
 
 export const SocialMediaWrapper = styled.div`
